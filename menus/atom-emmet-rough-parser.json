@@ -1,0 +1,42 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Emmet rough parser : uglify",
+        "command": "atom-emmet-rough-parser:uglify"
+      },
+      {
+        "label": "Emmet rough parser : beautify",
+        "command": "atom-emmet-rough-parser:beautify"
+      },
+      {
+        "label": "Emmet rough parser : deleteHtmlComments",
+        "command": "atom-emmet-rough-parser:deleteHtmlComments"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Emmet rough parser",
+          "submenu": [
+            {
+              "label": "Emmet rough parser : uglify",
+              "command": "atom-emmet-rough-parser:uglify"
+            },
+            {
+              "label": "Emmet rough parser : beautify",
+              "command": "atom-emmet-rough-parser:beautify"
+            },
+            {
+              "label": "Emmet rough parser : deleteHtmlComments",
+              "command": "atom-emmet-rough-parser:deleteHtmlComments"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
