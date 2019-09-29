@@ -1,0 +1,17 @@
+{
+  "name": "atom-emmet-rough-parser",
+  "main": "./lib/atom-emmet-rough-parser",
+  "version": "0.0.0",
+  "description": "Very basic emmet parser",
+  "keywords": [
+  ],
+  "activationCommands": {
+  },
+  "repository": "https://github.com/jeremylegros/atom-emmet-rough-parser",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
