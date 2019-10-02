@@ -1,6 +1,6 @@
 # atom-emmet-rough-parser package
 
-Package written to expand an emmet expression roughly but quickly for readibility. <br />
+Beautify / uglify roughly emmet expressions enough for readability<br />
 ## commands
 <ul>
   <li><em>atom-emmet-rough-parser:uglify</em> uglify (remove invisible characters in selection)</li>
