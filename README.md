@@ -3,8 +3,8 @@
 Package written to expand an emmet expression roughly but quickly for readibility. <br />
 ## commands
 <ul>
-  <li><em>atom-emmet-rough-parser:uglify</em> uglify (delete invisibles characters in selection)</li>
-  <li><em>atom-emmet-rough-parser:beautify</em> roughly expand the emmet expansion</li>
+  <li><em>atom-emmet-rough-parser:uglify</em> uglify (remove invisible characters in selection)</li>
+  <li><em>atom-emmet-rough-parser:beautify</em> beautify the emmet expression</li>
   <li><em>atom-emmet-rough-parser:deleteHtmlComments</em> delete all html comments in selection, sometimes useful</li>
 </ul>
 
