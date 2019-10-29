@@ -1,6 +1,6 @@
 # atom-emmet-rough-parser package
 Atom package.
-Beautify, uglify emmet expressions of the selected text./>
+Beautify, uglify emmet expressions of the selected text
 ## commands
 <ul>
   <li><em>atom-emmet-rough-parser:uglify </em>make it ready for emmet</li>
