@@ -8,6 +8,7 @@ Copy the repository to the atom configuration folder :
 <ul>
   <li><em>atom-emmet-rough-parser:uglify </em>make it ready for emmet</li>
   <li><em>atom-emmet-rough-parser:beautify </em>make it readable </li>
+  <li><em>atom-emmet-rough-parser:compile </em> *experimental, uncomplete!* uglify and expand emmet abbreviation </li>
   <li><em>atom-emmet-rough-parser:deleteHtmlComments </em> delete html comments, sometimes useful</li>
 </ul>
 

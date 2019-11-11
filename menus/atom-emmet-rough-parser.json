@@ -12,6 +12,10 @@
       {
         "label": "Emmet rough parser : deleteHtmlComments",
         "command": "atom-emmet-rough-parser:deleteHtmlComments"
+      },
+      {
+        "label": "Emmet rough parser : compile",
+        "command": "atom-emmet-rough-parser:compile"
       }
     ]
   },
