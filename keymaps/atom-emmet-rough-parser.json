@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-alt-u": "atom-emmet-rough-parser:uglify"
+    "ctrl-alt-u": "atom-emmet-draft-parser:minify"
   }
 }

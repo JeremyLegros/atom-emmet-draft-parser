@@ -1,8 +1,8 @@
 'use babel';
 
-import AtomEmmetRoughParserView from '../lib/atom-emmet-rough-parser-view';
+import AtomEmmetdraftParserView from '../lib/atom-emmet-draft-parser-view';
 
-describe('AtomEmmetRoughParserView', () => {
+describe('AtomEmmetdraftParserView', () => {
   it('has one valid test', () => {
     expect('life').toBe('easy');
   });

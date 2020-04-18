@@ -2,20 +2,20 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Emmet rough parser : uglify",
-        "command": "atom-emmet-rough-parser:uglify"
+        "label": "Emmet draft parser : minify",
+        "command": "atom-emmet-draft-parser:minify"
       },
       {
-        "label": "Emmet rough parser : beautify",
-        "command": "atom-emmet-rough-parser:beautify"
+        "label": "Emmet draft parser : beautify",
+        "command": "atom-emmet-draft-parser:beautify"
       },
       {
-        "label": "Emmet rough parser : deleteHtmlComments",
-        "command": "atom-emmet-rough-parser:deleteHtmlComments"
+        "label": "Emmet draft parser : deleteHtmlComments",
+        "command": "atom-emmet-draft-parser:deleteHtmlComments"
       },
       {
-        "label": "Emmet rough parser : compile",
-        "command": "atom-emmet-rough-parser:compile"
+        "label": "Emmet draft parser : compile",
+        "command": "atom-emmet-draft-parser:compile"
       }
     ]
   },
@@ -24,19 +24,19 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "Emmet rough parser",
+          "label": "Emmet draft parser",
           "submenu": [
             {
-              "label": "Emmet rough parser : uglify",
-              "command": "atom-emmet-rough-parser:uglify"
+              "label": "Emmet draft parser : minify",
+              "command": "atom-emmet-draft-parser:minify"
             },
             {
-              "label": "Emmet rough parser : beautify",
-              "command": "atom-emmet-rough-parser:beautify"
+              "label": "Emmet draft parser : beautify",
+              "command": "atom-emmet-draft-parser:beautify"
             },
             {
-              "label": "Emmet rough parser : deleteHtmlComments",
-              "command": "atom-emmet-rough-parser:deleteHtmlComments"
+              "label": "Emmet draft parser : deleteHtmlComments",
+              "command": "atom-emmet-draft-parser:deleteHtmlComments"
             }
           ]
         }
