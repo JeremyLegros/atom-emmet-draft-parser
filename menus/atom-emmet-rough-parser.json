@@ -1,41 +1,35 @@
-{
-  "context-menu": {
-    "atom-text-editor": [
-      {
-        "label": "Emmet draft parser : minify",
+{ "context-menu": 
+  { "atom-text-editor": 
+     [
+      { "label"  : "Emmet draft parser : minify",
         "command": "atom-emmet-draft-parser:minify"
       },
-      {
-        "label": "Emmet draft parser : beautify",
+      { "label"  : "Emmet draft parser : beautify",
         "command": "atom-emmet-draft-parser:beautify"
       },
-      {
-        "label": "Emmet draft parser : deleteHtmlComments",
+      { "label"  : "Emmet draft parser : deleteHtmlComments",
         "command": "atom-emmet-draft-parser:deleteHtmlComments"
       },
-      {
-        "label": "Emmet draft parser : compile",
+      { "label"  : "Emmet draft parser : compile",
         "command": "atom-emmet-draft-parser:compile"
       }
     ]
   },
-  "menu": [
-    {
-      "label": "Packages",
-      "submenu": [
-        {
-          "label": "Emmet draft parser",
-          "submenu": [
-            {
-              "label": "Emmet draft parser : minify",
+  "menu": 
+   [
+    { "label"  : "Packages",
+      "submenu": 
+       [
+        { "label"  : "Emmet draft parser",
+          "submenu": 
+           [
+            { "label"  : "Emmet draft parser : minify",
               "command": "atom-emmet-draft-parser:minify"
             },
-            {
-              "label": "Emmet draft parser : beautify",
+            { "label"  : "Emmet draft parser : beautify",
               "command": "atom-emmet-draft-parser:beautify"
             },
-            {
-              "label": "Emmet draft parser : deleteHtmlComments",
+            { "label"  : "Emmet draft parser : deleteHtmlComments",
               "command": "atom-emmet-draft-parser:deleteHtmlComments"
             }
           ]
